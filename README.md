@@ -9,7 +9,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-FULLSTACK DEVELOPER FROM <b>RUSSIA ✈️</b>
+DEVELOPER FROM <b>RUSSIA ✈️</b>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheTilda&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
